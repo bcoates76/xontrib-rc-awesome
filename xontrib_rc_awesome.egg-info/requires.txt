@@ -1,0 +1,14 @@
+xonsh[full]
+xontrib-argcomplete
+xontrib-back2dir
+xontrib-clp
+xontrib-cmd-durations
+xontrib-jump-to-dir
+xontrib-output-search
+xontrib-pipeliner
+xontrib-prompt-bar
+xontrib-prompt-starship
+xontrib-sh
+
+[xxh]
+xxh-xxh

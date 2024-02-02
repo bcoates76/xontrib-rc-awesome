@@ -1,0 +1,8 @@
+README.md
+setup.py
+xontrib/rc_awesome.xsh
+xontrib_rc_awesome.egg-info/PKG-INFO
+xontrib_rc_awesome.egg-info/SOURCES.txt
+xontrib_rc_awesome.egg-info/dependency_links.txt
+xontrib_rc_awesome.egg-info/requires.txt
+xontrib_rc_awesome.egg-info/top_level.txt
